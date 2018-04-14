@@ -1,0 +1,3 @@
+[submodule "blockathon-hasher"]
+	path = blockathon-hasher
+	url = git@github.com:/paynelabs/blockathon-hasher
