@@ -1,3 +1,6 @@
 [submodule "blockathon-hasher"]
 	path = blockathon-hasher
 	url = git@github.com:/paynelabs/blockathon-hasher
+[submodule "blockathon-encoder"]
+	path = blockathon-encoder
+	url = git@github.com:paynelabs/blockathon-encoder
